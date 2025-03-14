@@ -51,7 +51,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ![Screenshot 2025-03-14 143015](https://github.com/user-attachments/assets/4526ba03-8c02-464a-885c-63bbf2cc3fb2)
 
 ## IP2LOCATION:
-![image](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/dedf8065-b4ca-4a25-b006-e9f63b2ed210)
+![Screenshot 2025-03-14 143323](https://github.com/user-attachments/assets/561c011f-ffd9-40f5-894c-595b7da26f00)
+
 ## WEB ARCHIVE:
 ![Screenshot 2024-03-26 040911](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/26da7d38-b86b-43ba-b7a4-d4477e1f7eb1)
 ## NMAP
